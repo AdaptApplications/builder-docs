@@ -14,10 +14,10 @@ The Adapt Apps Builder Console is a powerful interface designed to help you crea
 
 ## Key Features
 
-### [Building Forms](./docs/builder_console/building_a_form)
+### [Building Forms](./docs/forms/building_a_form)
 Create intuitive and dynamic forms to capture data efficiently. Our Form Builder allows you to add various field types, configure validation, and customise layouts with ease.
 
-### [Building Data Views](./docs/builder_console/building_a_data_view)
+### [Building Data Views](./docs/data_views/building_a_data_view)
 Transform your data into actionable insights with custom Data Views. Configure columns, set up complex filtering, and define sorting and limiting rules to present your data exactly how you need it.
 
 ---
@@ -26,7 +26,7 @@ Transform your data into actionable insights with custom Data Views. Configure c
 
 If you're new to Adapt Apps, we recommend starting with our core building guides:
 
-1. **[Creating your first Form](./docs/builder_console/building_a_form)** - A step-by-step guide to building and saving a new form.
-2. **[Setting up a Data View](./docs/builder_console/building_a_data_view)** - Learn how to visualise your data through customisable views.
+1. **[Creating your first Form](./docs/forms/building_a_form)** - A step-by-step guide to building and saving a new form.
+2. **[Setting up a Data View](./docs/data_views/building_a_data_view)** - Learn how to visualise your data through customisable views.
 
-For more information, explore the **[Builder Console](./docs/builder_console/)** section in the navigation menu.
+For more information, explore the **[Forms](./docs/forms/)** and **[Data Views](./docs/data_views/)** sections in the navigation menu.

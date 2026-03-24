@@ -1,6 +1,6 @@
 ---
 title: Building a Data View
-parent: Builder console
+parent: Data Views
 nav_order: 2
 ---
 

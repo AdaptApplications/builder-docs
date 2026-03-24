@@ -1,6 +1,6 @@
 ---
 title: Building a form
-parent: Builder console
+parent: Forms
 nav_order: 1
 ---
 
